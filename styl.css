@@ -3,11 +3,11 @@ h1 {
   background: grey;
   font-size: 78px
 }
-#opis{
+.opis{
   color: blue;
   font-size: 22px
 }
 p{
-  color: orange;
+  color: black;
   font-size: 12px
 }
